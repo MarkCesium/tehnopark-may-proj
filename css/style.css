@@ -1,0 +1,154 @@
+.btn-outline-primary {
+	color: #897D75;
+	font-weight: 500;
+	border-color: #897D75;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary:active,
+.btn-outline-primary.active {
+	border-color: #897D75;
+	background: #897D75;
+	color: #F2F2F0;
+}
+
+.btn-outline-primary.dark {
+	color: #14FFEC;
+	font-weight: 500;
+	border-color: #14FFEC;
+}
+
+.btn-outline-primary.dark:hover,
+.btn-outline-primary.dark:focus,
+.btn-outline-primary.dark:active,
+.btn-outline-primary.active.dark {
+	border-color: #14FFEC;
+	background: #14FFEC;
+	color: #323232;
+}
+
+.chartBox {
+	width: 700px;
+}
+
+.navbar {
+	background: #F3F2ED;
+}
+
+body {
+	background: #F2F2F0;
+	color: black;
+}
+
+body.dark {
+	background: #212121;
+	color: #14FFEC;
+}
+
+nav.dark {
+	background: #323232;
+}
+
+footer.dark {
+	background: #323232;
+}
+
+.card.dark {
+	background: #323232;
+	color: #14FFEC;
+}
+
+main {
+
+	height: 100%;
+}
+
+.form-check-input:checked {
+	background-color: #897D75;
+	border-color: #897D75;
+}
+
+.form-check-input.dark:checked {
+	background-color: #0D7377;
+	border-color: #0D7377;
+}
+
+.form-check-input:focus {
+	border-color: #897D75;
+}
+
+.form-check-input.dark:focus {
+	border-color: #212121;
+}
+
+.form-check-input.dark {
+	background-color: #212121;
+}
+
+.reload {
+	color: #4B515D;
+	text-decoration: none;
+}
+
+.reload.dark {
+	color: #14FFEC;
+	text-decoration: none;
+}
+
+.chartCardBlock {
+	height: 100%;
+	padding: 16px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.card-img {
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+
+
+footer {
+	background: #F3F2ED;
+	color: #897D75;
+}
+
+.center {
+	margin: auto;
+}
+
+.container {
+	margin: auto;
+	width: 70%;
+}
+
+.title {
+	width: 100%;
+	text-align: center;
+}
+
+h1 {
+	margin: 7px;
+}
+
+.card {
+	background: #F3F2ED;
+	box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.3);
+	color: #4B515D;
+}
+
+.text-about {
+	font-size: 20px;
+}
+
+
+/* #FF4858
+    #1B7F79
+    #00CCC0
+    #72F2EB
+    #747F7F */
+
+/* #F2F2F0 #C2C3BE #D9C4AF #897D75 #F3F2ED */
